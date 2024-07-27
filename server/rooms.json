@@ -1,0 +1,72 @@
+[
+	{
+		"name":"Jasmine Homestay Darjeeling",
+		"imageurls":[
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/350860574.jpg?k=ded56ff2e07cb7379f0cc45ed87ce10d67766916a1112b4bd13092080d9587d4&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/510665254.jpg?k=de78e6f7f75a0252f3feadc0a919054f16a060b28af13029d38d80f6940449e7&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/510665265.jpg?k=ec19b5e08a5b094141718be10727af5a88dc9169a36010bf4961073b2132b670&o=&hp=1"],
+		"rentperday":3000,
+		"type":"Delux",
+		"maxcount":4,
+		"phonenumber":9925876456,
+		"currentbookings":[
+	],
+		"description":"Jasmine Homestay Darjeeling enjoys a location in Darjeeling, 7.8 miles from Tiger Hill and 5.8 miles from Ghum Monastery. This property offers access to a terrace, free private parking, and free Wifi. The accommodation offers a shuttle service, while a car rental service is also available."
+	},
+	{
+		"name":"Hotel Laxmi Guest House",
+		"imageurls":[
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/549437070.jpg?k=0d94f8f4f4f8b018478795393857ddb6a7d74c30c996abf91f98ae92bd8ffe4d&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/548484412.jpg?k=495ab95d599b2fc6fd6015673b4a9a99f7a9c5be13c9169d8e0e7541b6537b9f&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/549437109.jpg?k=452313d50d7af80b96818c1c2edaa05787cd5adaca62db4c7cc36e8726e037e9&o=&hp=1"],
+		"rentperday":2688,
+		"type":"Delux",
+		"maxcount":3,
+		"phonenumber":9022597863,
+		"currentbookings":[
+	],
+		"description":"Hotel Laxmi Guest House - Excellent Service is located in Kolkata, within 3.8 miles of Kalighat Kali Temple and 4.9 miles of Indian Museum. This 3-star hotel offers an ATM and a concierge service. The property provides a 24-hour front desk, airport transportation, room service and free WiFi throughout the property."
+	},
+	{
+		"name":"Grand Inn Lodge",
+		"imageurls":[
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/480773386.jpg?k=68376f7e338d450bc722c062499db3643ec7f19427e3617f2923f828f4d41439&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/480979637.jpg?k=852720624507b68cfd2b3283f734be63d52ee212866c68dfc0c819d932ee8dbd&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/480773529.jpg?k=f00a3715db6295848362ff9578f427d306e6ee964423860e0d540c0f7eaf4263&o=&hp=1"],
+		"rentperday":2300,
+		"type":"Non-Delux",
+		"maxcount":3,
+		"phonenumber":9156978245,
+		"currentbookings":[
+	],
+		"description":"GRAND INN LODGE is located in Puri, just 1.5 miles from Golden Beach and 1.5 miles from Puri Beach. This guest house offers air-conditioned accommodations with a balcony. Jagannath Temple is 1.2 miles from the guest house and Konark Sun Temple is 21 miles away."
+	},
+	{
+		"name":"Hotel Paradise",
+		"imageurls":[
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/528345517.jpg?k=11588846e8a0c2c7706a5a4891a42ad2a393dae59186b959d30ff78555366405&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/528345530.jpg?k=964321f40a237af0197f1402ca37093a37b43d15736591fd0e0658a1a71612c7&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/537044206.jpg?k=fdf0dfa1ba69b175efe79481395e63f3e0b913f2dae5fd704d884826641316f6&o=&hp=1"],
+		"rentperday":2198,
+		"type":"Delux",
+		"maxcount":3,
+		"phonenumber":9065772569,
+		"currentbookings":[
+	],
+		"description":"Hotel Paradise has accommodations in Mandarmoni. With free WiFi, this 4-star hotel offers room service and a 24-hour front desk. There's a restaurant serving Indian cuisine, and free private parking is available."
+	},
+	{
+		"name":"Gitanjali Home",
+		"imageurls":[
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/557655991.jpg?k=676f4b6a1b9db27d27dc56f0792989107310f9bdc35f710bb7a02bde235605ab&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/557656107.jpg?k=42e7a558d818142ab2e1ce172ff5ba2b2cc8e07703c5b41046a94cb72fb49d19&o=&hp=1",
+			"https://cf.bstatic.com/xdata/images/hotel/max1280x900/557656013.jpg?k=46fd5207ee81f2529e3e180084d50c71b919264a6c631824e2e62f8e80812c5c&o=&hp=1"],
+		"rentperday":1933,
+		"type":"Non-Delux",
+		"maxcount":2,
+		"phonenumber":9836459782,
+		"currentbookings":[
+	],
+		"description":"Gitanjali Home offers accommodations in Kolkata, 8.7 miles from Dumdum Metro Station and 10 miles from Sealdah Train Station. Among the facilities at this property are an elevator and a shared kitchen, along with free Wifi throughout the property. New Market is 11 miles from the apartment and Howrah Train Station is 11 miles away."
+	}
+]
